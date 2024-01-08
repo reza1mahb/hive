@@ -3,4 +3,4 @@
 
 # Ignore any local build artifacts and runtime caches
 hive
-workspace
+workspace, .
